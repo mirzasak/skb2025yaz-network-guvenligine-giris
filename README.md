@@ -6,7 +6,7 @@ Bu repository, **Siber Kulupler Birliği** tarafından düzenlenen 2025 Siber G�
 
 Bu notları paylaşmamın temel motivasyonları:
 - 📖 Sınıf arkadaşlarımla bilgi paylaşımında bulunmak
-- 🌱 network güvenliğine ilgi duyan herkese faydalı olmak
+- 🌱 Network güvenliğine ilgi duyan herkese faydalı olmak
 - 🤝 Özgür yazılım felsefesi gereği bilgiyi özgürce paylaşmak
 - 📝 Ders notlarına ek olarak yaptığım araştırmaları ve incelemelerini bu dokümanda toplamak
 
