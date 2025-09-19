@@ -1,0 +1,1 @@
+# skb2025yaz-network-guvenligine-giris
