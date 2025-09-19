@@ -127,6 +127,21 @@
 - **Teknolojiler**: MPLS, SD-WAN, satelit
 - **Özellikler**: Düşük hız, yüksek gecikme, kamu altyapısı
 
+### **NAT (Network Address Translation) ve CGNAT (Carrier-Grade NAT)**
+- **NAT (Network Address Translation)**:
+  - **Tanım**: NAT, iç ağdaki cihazların özel IP adreslerini tek bir genel IP adresiyle değiştirir.
+  - **Avantajlar**: IP adresi tasarrufu sağlar ve ağ güvenliğini artırır.
+  - **Kullanım Alanları**: Genellikle internet servis sağlayıcıları (ISP) ve kurumsal ağlarda kullanılır.
+  - **Türleri**:
+    - **Static NAT**: Her iç IP adresi için sabit bir dış IP atanır.
+    - **Dynamic NAT**: İç IP'ler bir havuzdan dış IP'ler ile değiştirilir.
+    - **PAT (Port Address Translation)**: Bir dış IP'nin portları, çoklu iç cihazlara yönlendirilir.
+
+- **CGNAT (Carrier-Grade NAT)**:
+  - **Tanım**: CGNAT, ISP'ler tarafından çok sayıda kullanıcıya aynı IP adresi sağlamak için kullanılır.
+  - **Avantajlar**: IP adresi tasarrufu sağlar ve geniş ölçekli ağlar için etkilidir.
+  - **Kullanım Alanları**: Büyük ölçekli ağlar ve internet servis sağlayıcıları.
+
 ## Wireless Güvenlik Saldırıları
 
 ### Deauthentication Saldırısı
@@ -151,6 +166,18 @@
 - **Özellikler**: Her düğüm hem istemci hem sunucu
 - **Avantajları**: Dağıtık yapı, ölçeklenebilirlik
 - **Dezavantajları**: Güvenlik riskleri, kontrol zorluğu
+
+- **Yapılandırılmış P2P**:
+  - **Tanım**: Merkezi bir sistem veya protokol tarafından koordine edilen ağlar. Her istemci, sunucu gibi görevler üstlenebilir.
+  - **Örnekler**: BitTorrent, Gnutella
+  - **Avantajları**: Yüksek verimlilik, dağıtık yapı
+  - **Dezavantajları**: Kontrol eksikliği, güvenlik riskleri
+
+- **Yapılandırılmamış P2P**:
+  - **Tanım**: Merkezi olmayan ağlar; istemciler birbirleriyle doğrudan bağlantı kurar.
+  - **Örnekler**: Kaos ve güvenlik açıkları yüksek olabilir.
+  - **Avantajları**: Yüksek esneklik, anonimlik
+  - **Dezavantajları**: Güvenlik riskleri, denetimsizlik
 
 ### Torrent Protokolü
 - **Çalışma Mantığı**: 
