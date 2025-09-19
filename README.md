@@ -42,7 +42,7 @@ Bu notları paylaşmamın temel motivasyonları:
 Notlarla ilgili fikir, öneri ya da eksik gördüğün konular varsa bana her zaman ulaşabilirsin — birlikte daha iyi hale getirebiliriz.
 - 🐛 **Issue** açabilirsiniz
 - 🔧 **Pull Request** gönderebilirsiniz
-- 📧 Benimle [buradan](https://www.google.com/search?q=https://www.linkedin.com/in/mirzasak) iletişime geçebilirsiniz
+- 📧 Benimle [buradan](https://www.linkedin.com/in/mirzasak) iletişime geçebilirsiniz.
 
 -----
 
