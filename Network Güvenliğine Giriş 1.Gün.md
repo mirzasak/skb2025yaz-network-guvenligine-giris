@@ -1,4 +1,4 @@
-# Network Güvenliği 1. Gün - Ağ Temelleri ve Güvenlik İlkeleri
+# Network Güvenliği 1. Gün
 
 ## Ağ Temelleri
 
