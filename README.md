@@ -14,14 +14,14 @@ Bu notları paylaşmamın temel motivasyonları:
 
 ## İçerik Özeti (3 Günlük Ders Notları)
 
-### [1. Gün: Ağ Temelleri ve Güvenlik Mekanizmaları](https://github.com/mirzasak/skb2025yaz-network-guvenligine-giris/blob/main/Network%20G%C3%BCvenli%C4%9Fine%20Giri%C5%9F%201.%20G%C3%BCn.md?plain=1)
+### [1. Gün: Ağ Temelleri ve Güvenlik Mekanizmaları](https://github.com/mirzasak/skb2025yaz-network-guvenligine-giris/blob/main/Network%20G%C3%BCvenli%C4%9Fine%20Giri%C5%9F%201.G%C3%BCn.md)
 
   * **Ağ Temelleri ve Gelişimi:** İnternetin tarihi (**ARPANET**), **TCP/IP** protokolünün standartlaşması ve **router** teknolojisi gibi temel konular incelenmiştir.
   * **Ağ Topolojileri ve Türleri:** Ağları fiziksel ve mantıksal olarak düzenleyen farklı **ağ topolojileri** ve **ağ türleri** (LAN, MAN, WAN) ele alınmıştır.
   * **Temel Güvenlik Konuları:** **NAT** ve **CGNAT** kavramlarına değinilmiş, **kablosuz güvenlik saldırıları** (Deauthentication, Evil Twin) ve **P2P ağları**nın riskleri açıklanmıştır.
   * **Protokol Modelleri:** Ağların iletişim yapısını açıklayan **OSI** ve **TCP/IP** modelleri ile **TCP bayrakları** ve **3-way handshake** süreci detaylandırılmıştır.
 
-### [2. Gün: Güvenlik Mimarileri ve Saldırı Tespit Sistemleri](https://www.google.com/search?q=https://github.com/mirzasak/skb2025yaz-network-guvenligine-giris/blob/main/Network%2520G%25C3%25BCvenli%25C4%259F%25C4%25B1ne%2520Giri%25C5%259F%25202.G%25C3%25BCn.md)
+### [2. Gün: Güvenlik Mimarileri ve Saldırı Tespit Sistemleri](https://github.com/mirzasak/skb2025yaz-network-guvenligine-giris/blob/main/Network%20G%C3%BCvenli%C4%9Fine%20Giri%C5%9F%202.G%C3%BCn.md)
 
   * **Ağ Güvenlik Mimarileri:** Farklı **güvenlik duvarı (firewall)** türleri, **yük dengeleyiciler (Load Balancer)** ve **proxy** sunucularının güvenlik ve performans faydaları incelenmiştir.
   * **Saldırı Tespit ve Önleme Sistemleri:** Pasif ve aktif bileşenler olan **Saldırı Tespit Sistemleri (IDS)** ve **Saldırı Önleme Sistemleri (IPS)** arasındaki farklar açıklanmıştır.
