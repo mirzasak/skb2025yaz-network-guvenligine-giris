@@ -1,4 +1,4 @@
-# Network Güvenliğine Giriş - Detaylı Ders Notları
+# Network Güvenliği 2. Gün
 
 ## Temel Network Kavramları
 
