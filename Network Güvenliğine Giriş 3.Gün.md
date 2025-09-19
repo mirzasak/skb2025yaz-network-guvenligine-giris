@@ -1,4 +1,4 @@
-# Network Güvenliğine Giriş - Detaylı Ders Notları
+# Network Güvenliği 3. Gün
 
 ## Subnet ve IP Adresleme
 
